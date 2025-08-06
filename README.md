@@ -50,9 +50,13 @@ project/
 
 ## 📸 Screenshots
 
+<img width="952" height="450" alt="newplot" src="https://github.com/user-attachments/assets/7062c532-ff0b-4ab9-8843-34c859349732" />
+
+
 ### 🔹 Salary Dashboard
 
-![Dashboard](assets/dashboard_example.png)
+<img width="952" height="450" alt="newplot (1)" src="https://github.com/user-attachments/assets/41902344-f525-449a-ba3d-08f21c15a3f1" />
+
 
 ### 🔹 SHAP Feature Importance
 
